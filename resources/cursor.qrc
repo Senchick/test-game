@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cursor/cursor.png</file>
+    </qresource>
+    <qresource prefix="/sounds"/>
+    <qresource prefix="/music"/>
+</RCC>
